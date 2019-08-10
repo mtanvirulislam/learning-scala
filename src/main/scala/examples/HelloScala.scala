@@ -1,4 +1,4 @@
-package com.mtanvirulislam.example
+package examples
 
 object HelloScala {
   def main(args: Array[String]): Unit = {
